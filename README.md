@@ -5,4 +5,4 @@ It's a work in progress to add the first table here, from then on we will aim to
 
 In the meantime you can have a look at some of our other experiments - this one can [generate a new nursery rhyme](https://github.com/Nursery-rhymes/generate-nursery-rhymes) using lyrics from traditional ones.
 
-Open to help on this long term project, get in touch!
+Open to help on this long term project, get in touch with us!
